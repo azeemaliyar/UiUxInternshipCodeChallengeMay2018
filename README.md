@@ -1,3 +1,15 @@
+#HOW TO ACCESS SERVICE ON SIMULATOR
+1.open simulator
+2.Go to messages
+3.Write message to 1021 -- created specific service number
+4.upon sending message will return with statment "I'm a lumberjack and it's ok, I sleep all night and I work all day"
+
+# How code works at this moment
+1.when user sends message code is executed using the phone number and sender code
+2. this returns message mentioned in part 3 above
+
+
+
 # UiUx Internship Code Challenge - 22nd May 2018
 ## Due: 23rd 9:00am May or Earlier
 
